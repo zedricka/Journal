@@ -1,0 +1,27 @@
+
+#first {
+	background-color: #F5F5F5;
+	margin: 200px;
+	border: 2px solid #000;
+	padding: 20px;
+}
+#second {
+  background-color: #F5F5F5;
+  margin: 200px;
+  border: 2px solid #000;
+  padding: 20px;
+}
+#third {
+  background-color: #F5F5F5;
+  margin: 200px;
+  border: 2px solid #000;
+  padding: 20px;
+}
+
+.aside{
+  background-color: #F5F5F5;
+  margin: 200px;
+  border: 2px solid #000;
+  padding: 20px;
+  float: left;
+}
